@@ -7,6 +7,10 @@ h1 {
   text-align: center;
   font-size: 50px;
 }
+h2 {
+  text-align: center;
+  color: grey;
+}
 
 html {
   background: black;
@@ -16,4 +20,13 @@ html {
   color: turquoise;
   font-weight: bold;
   text-align: center;
+}
+
+video {
+  display: block;
+  margin: auto;
+}
+img {
+  display: block;
+  margin: auto;
 }
